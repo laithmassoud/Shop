@@ -1,0 +1,1 @@
+{"products":[{"id":"3","catid":"0","name":"Dell 4000","price":"800","quantity":1},{"id":"4","catid":"0","name":"HP Workstation 1","price":"350","quantity":1},{"id":"5","catid":"0","name":"HP Workstation 2","price":"450","quantity":1}],"user":{"name":"Monika Brueckner","street":"Hauptstrasse 35","city":"17676 Erfurt"}}
